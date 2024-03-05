@@ -32,7 +32,7 @@ The model used here is  **Logistic Regression**. Logistic regression is a statis
 As it a binary classification model it is perfect to predict if an object is mine or rock based on the sonar data.
 
 ## Description
-![screenshot](https://github.com/sagarpatel6065/Machine_Learning_Projects/blob/main/workflow.png)
+![screenshot](https://github.com/sagarpatel6065/Machine_Learning_Projects/blob/main/Project%201/workflow.png)
 
 Sonar data in a csv file is taken for training and testing purpose. Data preprocessing is done on the available sonar data which is suitable for training the model. After Data preprocessing, a Logistic regression model is built. The dataset is split into testing and training sets. The training data is used to train the model then the new data/ testing data is given to the trained logistic regression model for prediction.  
 
